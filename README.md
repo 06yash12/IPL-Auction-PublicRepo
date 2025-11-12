@@ -35,16 +35,16 @@ IPL Auction PlayZone is an interactive web-based game that simulates the Indian 
 
 ### 📬 Get In Touch
 
-📧 **Email**: iplauction.playzone@gmail.com
+� **Email**: iplauction.playzone@gmail.com
 
 ### 🤝 We're Open To
 
 - 💡 Feature suggestions and improvements
-- 🔧 Technical discussions about real-time systems
+- � Techunical discussions about real-time systems
 - 🤝 Partnership opportunities
 - 🏏 Cricket and tech community engagement
 - 🐛 Bug reports and feedback
-- 👨‍💻 Developer collaborations
+- 👨‍� Dreveloper collaborations
 
 ### 💬 When Reaching Out
 
