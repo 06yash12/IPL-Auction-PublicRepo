@@ -9,7 +9,7 @@ Experience the thrill of IPL auctions with our real-time multiplayer platform.
 ### Secure Authentication
 
 <div align="center">
-<img src="images/Login_page.jpg.png" alt="Login Page" width="600" height="400" style="object-fit: cover;">
+<img src="images/Login_page.jpg.png" alt="Login Page">
 </div>
 
 **What You Get:**
@@ -22,7 +22,7 @@ Experience the thrill of IPL auctions with our real-time multiplayer platform.
 ### Welcome Dashboard
 
 <div align="center">
-<img src="images/index.jpg.jpg" alt="Home Page" width="600" height="400" style="object-fit: cover;">
+<img src="images/index.jpg.jpg" alt="Home Page">
 </div>
 
 **What You Get:**
@@ -36,7 +36,7 @@ Experience the thrill of IPL auctions with our real-time multiplayer platform.
 ### Room Management
 
 <div align="center">
-<img src="images/Join_room.jpg.png" alt="Join Room" width="600" height="400" style="object-fit: cover;">
+<img src="images/Join_room.jpg.png" alt="Join Room">
 </div>
 
 **What You Get:**
@@ -51,7 +51,7 @@ Experience the thrill of IPL auctions with our real-time multiplayer platform.
 ### Live Auction Experience
 
 <div align="center">
-<img src="images/Auction_room.jpg.png" alt="Auction Room" width="600" height="400" style="object-fit: cover;">
+<img src="images/Auction_room.jpg.png" alt="Auction Room">
 </div>
 
 **What You Get:**
