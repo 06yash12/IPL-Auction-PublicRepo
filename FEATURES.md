@@ -6,26 +6,24 @@ Experience the thrill of IPL auctions with our real-time multiplayer platform.
 
 ## Core Features
 
-<table>
-<tr>
-<td width="50%">
-
 ### Secure Authentication
 
-![Login Page](images/Login_page.jpg.png)
+<div align="center">
+<img src="images/Login_page.jpg.png" alt="Login Page" width="600" height="400" style="object-fit: cover;">
+</div>
 
 **What You Get:**
 - Secure user authentication system
 - Clean and intuitive interface
 - Quick signup process
-- Password recovery options
 
-</td>
-<td width="50%">
+---
 
 ### Welcome Dashboard
 
-![Home Page](images/index.jpg.jpg)
+<div align="center">
+<img src="images/index.jpg.jpg" alt="Home Page" width="600" height="400" style="object-fit: cover;">
+</div>
 
 **What You Get:**
 - Game overview at a glance
@@ -33,15 +31,13 @@ Experience the thrill of IPL auctions with our real-time multiplayer platform.
 - Track your recent activity
 - Personalized user experience
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### Room Management
 
-![Join Room](images/Join_room.jpg.png)
+<div align="center">
+<img src="images/Join_room.jpg.png" alt="Join Room" width="600" height="400" style="object-fit: cover;">
+</div>
 
 **What You Get:**
 - Create custom auction rooms
@@ -50,12 +46,13 @@ Experience the thrill of IPL auctions with our real-time multiplayer platform.
 - Host management tools
 - View room statistics
 
-</td>
-<td width="50%">
+---
 
 ### Live Auction Experience
 
-![Auction Room](images/Auction_room.jpg.png)
+<div align="center">
+<img src="images/Auction_room.jpg.png" alt="Auction Room" width="600" height="400" style="object-fit: cover;">
+</div>
 
 **What You Get:**
 - Real-time bidding interface
@@ -64,10 +61,6 @@ Experience the thrill of IPL auctions with our real-time multiplayer platform.
 - Budget management tools
 - Detailed player statistics
 - Instant notifications
-
-</td>
-</tr>
-</table>
 
 ---
 
