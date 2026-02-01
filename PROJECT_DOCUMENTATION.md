@@ -44,35 +44,7 @@ IPL Auction PlayZone is a sophisticated real-time multiplayer platform that simu
 
 ## System Architecture
 
-```
-┌────────────────────────────────────────────────────────────┐
-│                        Client Layer                        │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐    │
-│  │ Browser 1│  │ Browser 2│  │ Browser 3│  │ Browser N│    │
-│  └────┬─────┘  └────┬─────┘  └────┬─────┘  └────┬─────┘    │
-└───────┼─────────────┼─────────────┼─────────────┼──────────┘
-        │             │             │             │
-        └─────────────┴─────────────┴─────────────┘
-                      │ WebSocket
-        ┌─────────────┴─────────────────────────────┐
-        │         Flask-SocketIO Server             │
-        │  ┌──────────────────────────────────────┐ │
-        │  │   Room Management & Event Handlers   │ │
-        │  └──────────────────────────────────────┘ │
-        │  ┌──────────┐  ┌──────────┐  ┌─────────┐  │
-        │  │ Auth     │  │ Bidding  │  │ AI      │  │
-        │  │ Service  │  │ Logic    │  │ Service │  │
-        │  └──────────┘  └──────────┘  └─────────┘  │
-        └───────────────────┬───────────────────────┘
-                            │
-        ┌───────────────────┴───────────────────────┐
-        │          Data Persistence Layer           │
-        │  ┌──────────┐  ┌──────────┐  ┌─────────┐  │
-        │  │ MongoDB  │  │ JSON     │  │ CSV     │  │
-        │  │(Optional)│  │ Storage  │  │ Players │  │
-        │  └──────────┘  └──────────┘  └─────────┘  │
-        └───────────────────────────────────────────┘
-```
+<img width="2258" height="1536" alt="Gemini_Generated_Image_kzaa5ykzaa5ykzaa" src="https://github.com/user-attachments/assets/a9dc7e64-373c-4d83-831f-4c9adcac9baa" />
 
 ---
 
