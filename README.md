@@ -47,24 +47,6 @@ Frontend         HTML5, CSS3, Vanilla JavaScript
 **Design** → Glassmorphic UI with translucent cards, gradients, animations, and IPL branding  
 **Testing** → Validated with limited users, then stress-tested with 30+ concurrent users for WebSocket stability
 
-## Quick Start
-
-```bash
-# Clone and install
-git clone https://github.com/06yash12/IPL_Auction_PlayZone.git
-cd ipl-auction-playzone
-pip install -r requirements.txt
-
-# Configure environment
-cp .env.example .env
-# Edit .env with your API keys
-
-# Run
-python app.py
-```
-
-Server starts at `http://127.0.0.1:5000`
-
 ## License
 
 Educational and entertainment purposes only.
